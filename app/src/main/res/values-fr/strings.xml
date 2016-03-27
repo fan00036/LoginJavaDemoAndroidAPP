@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login Example</string>
+    <string name="Login">Se Connecter</string>
+    <string name="Password">Mot de passe ici</string>
+    <string name="action_about">Sur</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="author">Jinhong Fan (fan00036)</string>
+    <string name="forgotMyPassword">Mot de passe oublié?</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="rememberMe">Souviens-toi de moi ?</string>
+    <string name="userName">Ton e-mail</string>
+    <string name="Welcome">Bienvenue</string>
+</resources>
